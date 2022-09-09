@@ -1,0 +1,2 @@
+# SportsApp
+This sport app us going to help users to choose the most suitable sport training on the base of initial data of the user, its wishes and aims. There will be recommendations given for choosing the best physical load in order to achieve the final goal (muscle growth (bodybuilding) / weight loss / stretching). This app will be able to analyze current sport condition of the user and to propose a program for training as well as it will be possible to build its own training program for the user if wants.
